@@ -6,7 +6,13 @@
   "version": "1.0.0",
   "description": "Sample package",
   "main": "stackos.js",
-  "repository": "https://github.com/sandoval0992/stackos",
+  "repository": "https://github.com/sandoval0992/stackos.git",
+  "bugs": "https://github.com/sandoval0992/stackos/issues",
   "author": "Ivan Sandoval",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "os",
+    "demo",
+    "yarn course"
+  ]
 }
