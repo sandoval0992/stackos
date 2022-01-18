@@ -2,7 +2,7 @@
   "dependencies": {
     "chalk": "2.3.0"
   },
-  "name": "stackos",
+  "name": "@sandoval0992/stackos",
   "version": "1.0.0",
   "description": "Sample package",
   "main": "stackos.js",
