@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "chalk": "2.3.0"
+  },
+  "name": "stackos",
+  "version": "1.0.0",
+  "description": "Sample package",
+  "main": "stackos.js",
+  "repository": "https://github.com/sandoval0992/stackos",
+  "author": "Ivan Sandoval",
+  "license": "MIT"
+}
